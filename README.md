@@ -1,4 +1,4 @@
-# Landclassiiation for Hurricane Disaster Recovery
+# Landclassification for Hurricane Disaster Recovery
 
 ![Alt Text](https://www.floridatoday.com/gcdn/presto/2019/02/05/PGRE/88aac85a-5bd8-4207-b1a0-201f48142642-GRE1Brd_09-27-2018_GN_1_A005__2018_09_26_IMG_Tropical_Weather_Rai_5_1_LRN04NNA_L1283943941_IMG_Tropical_Weather_Rai_5_1_LRN04NNA.jpg?crop=5261,2969,x0,y0&width=3200&height=1806&format=pjpg&auto=webp)
 
